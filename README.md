@@ -1,109 +1,139 @@
-# 💻 Cenlor | Alejandro Torres
+<!--
+  CENLOR | Y2K PROFILE README
+  Replace the placeholder project links with your actual repositories.
+-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:0891b2&height=220&section=header&text=CENLOR&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Code%20%E2%80%A2%20Systems%20%E2%80%A2%20Curiosity&descAlignY=60&descSize=18" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Cenlor">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=42+Madrid+student;Learning+to+think+in+C;Breaking+things+to+understand+them;Building%2C+debugging%2C+repeating..." alt="Typing SVG" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff00cc,35:7b2ff7,70:00cfff,100:ccff00&text=CENLOR&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=Y2K%20DIGITAL%20DREAMS%20%2F%2F%20LOW-LEVEL%20REALITY&descSize=15&descAlignY=60&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Programming-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-1d4ed8?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=SYSTEMS+PROGRAMMING+%2F%2F+C;42+MADRID+%3E+LEARN+%3E+BUILD+%3E+BREAK;STILL+DEBUGGING+REALITY.exe;WELCOME+TO+MY+DIGITAL+WORLD" />
 
----
+<br/>
 
-## `whoami`
+<img src="https://img.shields.io/badge/◈_42_MADRID-111111?style=for-the-badge&labelColor=111111&color=00E5FF" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-111111?style=for-the-badge&labelColor=111111&color=FF00CC" />
+<img src="https://img.shields.io/badge/MODE-TERMINAL-111111?style=for-the-badge&labelColor=111111&color=CCFF00" />
 
-Hey there! I'm **Alejandro Torres**, also known as **Cenlor**, a student at **42 Madrid** with a serious interest in programming, computer systems, and figuring out how things actually work under the hood.
+<br/><br/>
 
-I enjoy learning by building things, breaking them, debugging the mess, and occasionally discovering that the bug was me all along.
+`01000011 01000101 01001110 01001100 01001111 01010010`
 
-I'm currently focusing on strengthening my foundations in C and exploring the world of low-level programming, Linux, networking, and cybersecurity.
+*✦ DIGITAL NOSTALGIA · OPEN SOURCE · UNREASONABLE CURIOSITY ✦*
 
-> *"Identity theft is not a joke, Jim!"*  
-> **Dwight Schrute energy:** Discipline is doing the work even when the compiler disagrees with your existence.
-
-### `current_mission`
-
-- Learning C and improving my problem-solving skills.
-- Understanding Linux, operating systems, and networking.
-- Exploring cybersecurity and low-level computing.
-- Building projects that turn curiosity into something tangible.
-- Becoming the kind of engineer who understands the system instead of just making it run.
+</div>
 
 ---
 
-## `tech_stack.sh`
+## 💿 `01 / ABOUT_ME.exe`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,linux,docker,git,github,raspberrypi,arduino,tor&theme=dark&perline=6" />
-</p>
+Hey there! I'm **Alejandro Torres**, aka **Cenlor**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Environment-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Interests-Cybersecurity-DC2626?style=flat-square&logo=kalilinux&logoColor=white" />
-</p>
+I'm a student at **42 Madrid**, interested in programming, computer systems, cybersecurity and the beautiful art of making something work after breaking it seventeen times.
 
----
+I enjoy understanding what happens under the hood, not just memorizing which button makes the error disappear.
 
-## `git log --stats`
+- `CURRENTLY`: Learning C and strengthening my programming fundamentals.
+- `EXPLORING`: Linux, networking, cybersecurity and low-level computing.
+- `INTO`: Open-source projects, retro technology, digital experimentation and solving problems.
+- `FUEL`: Coffee, curiosity and questionable sleep schedules.
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Cenlor&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenlor&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" />
-</p>
+### ✧ THE DWIGHT SCHRUTE MANIFESTO ✧
 
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cenlor&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cenlor&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=ffffff&area=true&hide_border=true" />
-</p>
+> ¿Cómo me describiría a mí mismo?
+>
+> Tres palabras: trabajador, macho alfa, martillo neumático, despiadado, insaciable.
+>
+> **— Dwight Schrute, Regional Manager material.**
 
 ---
 
-## `./projects --featured`
+## 🖥️ `02 / TECH_STACK.sys`
 
-<p align="center">
-  <a href="https://github.com/Cenlor?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-161b22?style=for-the-badge&logo=github&logoColor=38BDF8" />
-  </a>
-</p>
+<div align="center">
 
-My repositories are where I experiment, practice, and document what I learn.
+<img src="https://skillicons.dev/icons?i=c,python,bash,linux,html,css,git,github,docker,raspberrypi,arduino&theme=dark&perline=6" />
 
-I'm particularly interested in projects involving:
+<br/><br/>
 
-- Systems programming and C.
-- Linux tooling and automation.
-- Cybersecurity labs and networking.
-- Small tools that solve real problems.
-- Experimental projects built just to understand something better.
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+</div>
+
+```text
+[ LEARNING ]     C / MEMORY / POINTERS / DATA STRUCTURES
+[ EXPLORING ]    LINUX / NETWORKING / CYBERSECURITY
+[ EXPERIMENTING ] AUTOMATION / HARDWARE / OPEN SOURCE
+```
 
 ---
 
-## `coffee && compile()`
+## 📟 `03 / GITHUB_STATS.log`
 
-I like programming, reading, coffee, and the occasional existential crisis caused by a missing semicolon.
+<div align="center">
 
-My philosophy is simple: **understand the fundamentals, stay curious, and never trust code just because it compiled once.**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cenlor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff00cc&text_color=e6edf3&include_all_commits=true" />
 
-<p align="center">
-  <i>"The computer was born to solve problems that did not exist before."</i>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenlor&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=e6edf3&langs_count=6" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cenlor&style=flat-square&color=0e7490&label=PROFILE+VISITORS" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <sub>Built with curiosity, caffeine, and an unreasonable number of debugging sessions.</sub>
-</p>
+<img width="95%" src="https://streak-stats.demolab.com?user=Cenlor&theme=transparent&hide_border=true&background=0D1117&ring=FF00CC&fire=CCFF00&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+</div>
+
+---
+
+## 🧪 `04 / PROJECT_LAB`
+
+<div align="center">
+
+<a href="https://github.com/Cenlor?tab=repositories">
+<img src="https://img.shields.io/badge/◈_EXPLORE_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=00e5ff&color=111111" />
+</a>
+
+</div>
+
+My repositories are my digital laboratory: a place to experiment, learn, document discoveries and turn ideas into working software.
+
+**Areas I'm interested in:**
+
+- `01` — Systems programming in C.
+- `02` — Linux tools and automation.
+- `03` — Networking and cybersecurity.
+- `04` — Hardware experiments and Raspberry Pi.
+- `05` — Weird ideas that somehow become actual projects.
+
+---
+
+## 🪩 `05 / DIGITAL_PHILOSOPHY.txt`
+
+I like programming, reading, coffee and understanding things that initially look impossible.
+
+I believe in learning the fundamentals, questioning how things work and being willing to start again when the first attempt inevitably catches fire.
+
+<div align="center">
+
+### `ONE BIT AT A TIME.`
+
+*Inspired by the binary worldview of Mr. Robot: every decision can become a choice between taking action and remaining at zero.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/REALITY.exe-RUNNING-111111?style=for-the-badge&labelColor=111111&color=00e5ff" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Cenlor&style=flat-square&color=ff00cc&label=VISITORS+FROM+THE+MATRIX" />
+
+<br/>
+
+<sub>© Cenlor · Built with curiosity, caffeine and an unhealthy relationship with debugging.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ccff00,35:00cfff,70:7b2ff7,100:ff00cc&height=100&section=footer" />
+
+</div>
