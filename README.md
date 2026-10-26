@@ -216,7 +216,7 @@ If the series *How to Sell Drugs Online (Fast)* had never come along—or *Code 
 
 ### `// DWIGHT_SCHRUTE.exe`
 
-> ¿Cómo me describiría a mí mismo? Tres palabras: trabajador, macho alfa, martillo neumático, despiadado, insaciable.
+> How would I describe myself? Three words: hardworking, alpha male, jackhammer, ruthless, insatiable.
 
 **— Dwight Schrute**
 
